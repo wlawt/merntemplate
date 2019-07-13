@@ -1,1 +1,1 @@
-# devconnector
+# MERN/Redux Template

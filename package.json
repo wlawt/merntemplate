@@ -1,7 +1,7 @@
 {
-  "name": "devconnector",
+  "name": "MERN/Redux Template",
   "version": "1.0.0",
-  "description": "social network for developers",
+  "description": "To increase efficiency in full stack web development",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
